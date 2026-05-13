@@ -26,31 +26,10 @@ In windows 7 give the command arp -a
 ## OUTPUT:
 
 
-From kali linux issue the command :
-sudo arpspoof -i eth0 -t <target system> <gateway>
-## OUTPUT:
+<img width="1600" height="886" alt="WhatsApp Image 2026-05-13 at 1 24 26 PM" src="https://github.com/user-attachments/assets/a562fcb1-295d-402b-bb0b-8a86ae345509" />
+<img width="1600" height="886" alt="WhatsApp Image 2026-05-13 at 1 24 26 PM (1)" src="https://github.com/user-attachments/assets/7b7c8e17-c834-4e88-828d-264c849e7b4a" />
 
-
- dsniff:
-
-
-
-
-
-
-In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
-## OUTPUT:
-
-
-
-
-In Kali issue the following commands:
-sudo dsnifff
-## OUTPUT:
-
-
-
-Invoke the wireshark and examine the various menus  and controls of the tool:
+<img width="1600" height="886" alt="image" src="https://github.com/user-attachments/assets/9f5e30a3-56f5-444b-b81a-656fc7779e7b" />
 
 
 ## RESULT:
